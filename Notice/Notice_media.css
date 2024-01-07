@@ -1,0 +1,10 @@
+.media-content-container{
+    display: none;
+    min-height: 100px;
+}
+.media-no-post-here{
+    text-align: center;
+    padding: 10px;
+    color: rgb(78, 78, 90);
+    font-size: .9em;
+}

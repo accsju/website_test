@@ -1,0 +1,29 @@
+{                 
+    "profile": {
+        "message": "This site serves as a design with the dual role of a portfolio site. Therefore, there are some non-functional features (placeholders), and if there has been any misunderstanding that they are not working correctly, I apologize. The main purpose is to post tweets or share new contents created as a hobby. ※This sentence might sound a bit unnatural as it has been translated from Japanese to English using chatbot GPT-3.5!"
+    },    
+    "whisper": [
+        {
+            "id": 1,
+            "text": "To cleanse my worldly desires, I resolved to perform 108 full swings! However, I ran out of strength on the 30th swing. 98 desires remained uncleansed. That's just how reality is, I suppose.",
+            "date": "1/5/2024",
+            "links": [
+                "https://www.youtube.com/watch?v=Cd1gOcN-REg&t=1465s"
+            ],
+            "links_name" : [
+                "happy new years !!"
+            ]
+        },
+        {
+            "id": 2,
+            "text": "New Year's is cold, so it's easy to find yourself snuggled up in a kotatsu, eating away. Welcome to 2024, I hope it's a great year!",
+            "date": "1/1/2024",
+            "links": [
+
+            ],
+            "links_name" : [
+                
+            ]
+        }
+    ]
+}

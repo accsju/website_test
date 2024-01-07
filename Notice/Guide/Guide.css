@@ -1,0 +1,38 @@
+.all-content-container{
+    width: 100%;
+    background: #1B1B1B;
+}
+.content-container{
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.website-links-wrapper{
+    margin-top: 30px;
+}
+.website-links-wrapper ul{
+    display: flex;
+}
+.website-links-wrapper ul li{
+    list-style: none;
+}
+.website-links-wrapper ul li a{
+    color: #469FFF;
+    font-size: .8em;
+    padding-right: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.greeting-wrapper{
+    padding-bottom: 10px;
+    border-bottom: 1px solid white;
+}
+.greeting-wrapper h3{
+    color: white;
+}
+.greeting-wrapper p{
+    color: white;
+    font-size: .7em;
+}

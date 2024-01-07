@@ -1,0 +1,90 @@
+.whisper-content-container{
+    display: none;
+    min-height: 100px;
+}
+.whisper-content{
+    margin-right: 10px;
+}
+.whisper-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.whisper-header-2{
+    display: flex;
+    align-items: start;
+}
+.whisper-web-icon-wrapper{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: #111111;
+    display: grid;
+    place-items: center;
+    margin-right: 10px;
+}
+.whisper-web-icon-wrapper img{
+    width: 40px;
+    height: 40px;
+}
+.whisper-name h3{
+    color: white;
+    font-size: .9em;
+}
+.whisper-name span{
+    color: rgb(78, 78, 90);
+    font-size: .5em;
+    margin-left: 10px;
+}
+.whisper-date{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.whisper-date span{
+    color: white;
+    font-size: .5em;
+    margin-right: 10px;
+}
+.whisper-date svg{
+    width: 20px;
+    height: 20px;
+    color: white;
+    font-size: .5em;
+}
+.whisper-body{
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-left: 70px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgb(78, 78, 90);
+}
+.whisper-main-text{
+    color: white;
+    font-size: .7em;
+    padding-bottom: 10px;
+}
+.whisper-links-wrapper a{
+    display: block;
+    color: #469FFF;
+    font-size: .7em;
+    margin-bottom: 5px;
+}
+@media (max-width: 480px){
+    .whisper-header{
+        display: block;
+    }
+    .whisper-name span{
+        margin-top: 5px;
+        margin-left: 0;
+        display: block;
+    }
+    .whisper-date{
+        margin-top: 10px;
+    }
+    .whisper-body{
+        padding-left: 10px;
+    }
+}
