@@ -220,7 +220,7 @@ function language_mode_change(){
             <div class="whisper-header">
                 <div class="whisper-header-2">
                     <div class="whisper-web-icon-wrapper">
-                        <img src="/img/web-icon0003.png" class="web-icon">
+                        <img src="img/web-icon0003.png" class="web-icon">
                     </div>
                     <div class="whisper-name">
                         <h3>Notice WoW!!<span>@Somewhere in this world</span></h3>
